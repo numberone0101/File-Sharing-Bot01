@@ -1,4 +1,4 @@
-# ♻️File-Sharing♻️
+# ♻File-Sharing♻
 
 
 <img src="https://telegra.ph/file/2061f62b135e0b91880b5.jpg">
